@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Systems Engineering student with interests in programming languages and geometry processing. 😄
+I'm a systems engineering student with interests in programming languages and geometry processing. 😄
 - 📫 Feel free to contact me at luisvegasmor@gmail.com
 <!--
 **bluretrece/bluretrece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
