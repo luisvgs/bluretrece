@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a systems engineer with interests in PL research and graphics programming. 😄
+I'm a systems engineer interested in PL research and graphics programming. 😄
 - Tennis and hiking lover.
-- Casual musician.
+- Spare-time music producer.
 - 📫 Feel free to contact me at luisvegasmor@gmail.com
 <!--
 **bluretrece/bluretrece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
