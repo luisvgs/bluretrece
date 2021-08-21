@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 I'm a systems engineer interested in PL research and graphics programming.
 - Tennis and hiking lover.
 - Spare-time music producer.
